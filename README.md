@@ -45,8 +45,8 @@ Aprender o básico sobre contribuição no GitHub.
       </td>
     </tr>
     <tr>
-      <td>03</td>
-      <td>Desenvolvendo e Enviando uma Contribuição</td>
+      <td>03</td>(
+      <td>Desenvolvendo e Enviando uma Contribuição não foi tão dificil </td>
       <td align="center">
         <a href="">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
